@@ -1,0 +1,279 @@
+
+
+
+
+
+
+.titulo1{
+
+  margin-bottom: 8%;
+  text-align: center;
+
+}
+
+
+
+
+
+
+.colum{
+
+  width: auto;
+  margin: auto auto;
+  padding: 2%;
+
+}
+
+
+
+
+h5{
+
+text-align: center;
+
+}
+
+h3 {
+
+text-align: left;
+
+}
+
+p{
+
+text-align: justify;
+
+}
+
+.imagen{
+
+padding-top:10%;
+
+
+
+}
+
+.cabecera{
+
+text-align: center !important;
+
+}
+
+
+.val{
+
+text-align: center !important;
+
+}
+
+h3{
+
+text-align: center;
+margin: 3%;
+}
+
+
+h2{
+
+padding-top: 10%;
+
+}
+
+
+
+.card{
+
+margin: auto;
+color: white !important;
+background-color: #348c91;
+
+}
+
+
+.even{
+
+margin: auto;
+text-align: center;
+
+
+}
+
+a{
+
+color: white;
+
+
+}
+
+a:after{
+
+background-color: grey;
+
+}
+
+.carta{
+
+margin: auto;
+width: 70%;
+
+padding: 1%;
+background: grey;
+
+
+}
+
+.card{
+
+margin-top: 3%;
+
+}
+
+.circulos{
+
+margin-top: 15%;
+
+}
+
+
+p{
+
+padding-right: 10px !important;
+padding-left: 10px!important;
+
+}
+
+.parrafos{
+
+text-align: justify;
+
+}
+
+.bg-dark{
+
+background-color: #343a40!important;
+
+}
+
+
+
+.btn{
+
+margin-right: 2%;
+
+}
+
+.dark{
+padding: 1%;
+text-align: right;
+color: white;
+
+}
+
+.ondas{
+
+  padding: 1.5%;
+}
+.head{
+
+margin-bottom: 30px;
+background-image:url(/assets/fondo.png);
+
+
+}
+
+.botones{
+
+margin: auto;
+
+
+}
+
+.login{
+
+text-align: center;
+margin-bottom: 5% !important;
+
+}
+
+
+.ond-icon{
+padding-top: 2%;
+background-color: grey;
+
+}
+
+.cont{
+
+  /*border-style:solid;
+  border-width: medium;
+  border-color: white;*/
+/*background-color: #003d4f;*/
+background:linear-gradient(90deg, rgba(51, 96, 114, .58), rgba(51, 96, 114, .68) ,  rgba(51, 96, 114, .78) , rgba(51, 96, 114, .88) ,  rgba(51, 96, 114, .99)  );
+}
+
+
+img{
+
+  display:block;
+  margin:auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+
+.botn{
+  margin-top: 70px;
+  margin-bottom:20px;
+  border: 7px solid white;
+  padding: 10px;
+  border-radius: 25px;
+
+}
+
+
+@media screen and (max-width: 700px) {
+  .botn {
+    margin-top: 1px;
+  }
+}
+
+
+label{
+
+margin: 5px;
+
+}
+
+
+.footer {
+  position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: black;
+color: white;
+text-align: center;
+
+}
+
+.btn-radio{
+
+margin: 2%;
+max-width: 25%;
+text-align: center;
+}
+
+
+
+#main {
+margin-bottom:200px;
+}
+
+
+@media only screen and (max-width: 700px) {
+  #main {
+    padding-bottom:65px;
+    margin-bottom:250px;
+  }
+}
